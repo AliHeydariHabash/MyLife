@@ -3,3 +3,5 @@
 window.MYLIFE_CONFIG = {
   googleClientId: '890004023724-7k127c5eg8rfhbh2510u3vu378po69tr.apps.googleusercontent.com'
 };
+googleRelayUrl:
+"https://mylife-google-relay.aliheydarihabash.workers.dev"
